@@ -7,6 +7,6 @@
  * <li>XXXX.css -- Stylesheet for XXXX.fxml.
  * <li>XXXXPresenter -- Controller of XXXX.fxml, with CDI.
  * <li>XXXXView --- Utility to register XXXX as a screen, and more.
- * </ul> 
+ * </ul>
  */
-package jp.coppermine.samples.javafx.skelton.main;
+package com.example.javafx.main;
